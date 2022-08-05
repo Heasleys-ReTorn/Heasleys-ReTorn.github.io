@@ -1,0 +1,21 @@
+html {
+  background-color: #f0f0f0;
+}
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 2em auto;
+  max-width: 800px;
+  padding: 1em;
+  line-height: 1.4;
+  text-align: justify;
+}
+.logo {
+    font-family: "impact";
+    font-size: 2em;
+    letter-spacing: 0.5px;
+    font-weight: normal;
+}
+.yellow {
+    color: #e0ce00;
+}
