@@ -19,3 +19,11 @@ body {
 .yellow {
     color: #e0ce00;
 }
+
+.card img {
+  cursor: pointer;
+  width: 243.33px;
+  height: 250px;
+  object-fit: cover;
+  object-position: left top;
+}
